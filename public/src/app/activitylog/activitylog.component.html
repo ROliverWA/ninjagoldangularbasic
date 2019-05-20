@@ -1,0 +1,30 @@
+<div class='container-fluid log_box'>
+    
+<ul>
+    <li *ngFor= "let log of logData" >
+     
+      <span [ngStyle]= "{color: log['won'] ? 'Green' : 'Red'}">{{log['log']}} </span> 
+       
+    </li>
+
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>

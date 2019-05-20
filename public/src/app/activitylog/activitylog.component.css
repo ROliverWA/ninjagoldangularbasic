@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+}
+
+.log_box {
+    width: 88%;
+    height: 300px;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.won {
+    color: green;
+}
+
+.lost {
+    color: red;
+}

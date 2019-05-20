@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.wrapper {
+    padding-top: 20px;
+    max-width: 1080px;
+    margin: auto;
+}
+
+.gold_disp {
+  margin-left: 319px;
+  margin-top: 30px;
+}
+
+.save_btn {
+    margin-top: 20px;
+    margin-left: 550px;
+    width: 60px;
+    
+}
